@@ -30,8 +30,6 @@ Out of these models catboost performed very well giving an AUC score around and 
 ![Landing Page](githubimgs/landingpage.png)
 * About Rainy Brain:
 ![About](githubimgs/about.png)
-* Dashboard:
-![Dashboard](githubimgs/dashboard.png)
 * Predictor:
 ![Predictor](githubimgs/predictor.png)
 * Result:
